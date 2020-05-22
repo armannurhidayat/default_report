@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vit_custom_report_saleorder_vit_custom_report_saleorder,vit_custom_report_saleorder.vit_custom_report_saleorder,model_vit_custom_report_saleorder_vit_custom_report_saleorder,,1,0,0,0
